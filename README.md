@@ -1,5 +1,6 @@
  <!-- template is made for laptop/desktop, but it's not completely broken on mobile. -->
-<sub align="left">Template by [Eveleen](https://github.com/COUNTRY-HUMANS)
+<sub align="left"> ![33d41b62](https://github.com/user-attachments/assets/8a754b3a-fa7a-404f-bd0d-23d145e6ae40) Template by [Eveleen](https://github.com/COUNTRY-HUMANS) 
+
 
 <p align="center">
 
@@ -15,7 +16,7 @@
 
   <img align="left" height="200" width="170" src="https://file.garden/aQf_20iXlTRXGsgd/88b987c7f31af5fe5ce73ccf013e311e.gif">
   
-  ${{\color{VioletRed}\Large{\textsf{YES YES YES!    (˵ •̀ ᴗ - ˵ )\ \}}}}\$  <br> 
+  ${{\color{VioletRed}\Large{\textsf{> Dirk: Wake. \}}}}\$ ![baebd4dd](https://github.com/user-attachments/assets/a23cba6b-95f6-4431-b755-5dad7a92c3c8) <br> 
 
 ![e8cc1d68](https://github.com/user-attachments/assets/6d0d06d7-c4a7-4ea4-b623-4e3bb6d0e48d) <!-- you're safe to end anything beyond this --> dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <!-- you're safe to end anything before this --> <br>
     <!-- Replace the 'text' with info about yourself! -->
@@ -30,7 +31,7 @@
 
   <div align="left">
 
-  ${{\color{VioletRed}\Large{\textsf{NO NO NO! ( ˶°ㅁ°)!!\ \}}}}\$  <br> 
+  ${{\color{VioletRed}\Large{\textsf{> [S] Dirk: Synchronize.\ \}}}}\$ ![a2cd257c](https://github.com/user-attachments/assets/22c83168-4c10-4402-bff0-428f9e0813d8)  <br> 
 
 </div>
 
