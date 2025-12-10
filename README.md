@@ -1,5 +1,5 @@
  <!-- template is made for laptop/desktop, but it's not completely broken on mobile. -->
-<sub align="left"> ![33d41b62](https://github.com/user-attachments/assets/8a754b3a-fa7a-404f-bd0d-23d145e6ae40) Template by [Eveleen](https://github.com/COUNTRY-HUMANS) 
+<sub align="left"> ![33d41b62](https://github.com/user-attachments/assets/8a754b3a-fa7a-404f-bd0d-23d145e6ae40) Layout derived from template by [Eveleen](https://github.com/COUNTRY-HUMANS) 
 
 
 <p align="center">
