@@ -18,7 +18,7 @@
   
   ${{\color{VioletRed}\Large{\textsf{> Dirk: Wake. \}}}}\$ ![baebd4dd](https://github.com/user-attachments/assets/a23cba6b-95f6-4431-b755-5dad7a92c3c8) <br> 
 
-![e8cc1d68](https://github.com/user-attachments/assets/6d0d06d7-c4a7-4ea4-b623-4e3bb6d0e48d) <!-- you're safe to end anything beyond this --> ${{\color{#bc2464}\Large{\textsf{text\}}}}\$ dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <!-- you're safe to end anything before this --> <br>
+![e8cc1d68](https://github.com/user-attachments/assets/6d0d06d7-c4a7-4ea4-b623-4e3bb6d0e48d) <!-- you're safe to end anything beyond this --> ${{\color{#bc2464}\Large{\textsf{01 ABOUT ME\}}}}\$ Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text     <!-- you're safe to end anything before this --> <br>
     <!-- Replace the 'text' with info about yourself! -->
     <p align="center">
   ${{\color{VioletRed}\large{\textsf{⇄⠀⠀⠀◁◁⠀ ▐  ▌ ⠀▷▷  ⠀ ⠀↻\ \}}}}\$  <br>
@@ -35,7 +35,7 @@
 
 </div>
 
-<p> <!-- you're safe to end anything beyond this --> dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <!-- you're safe to end anything before this --> <br> </p>
+<p> <!-- you're safe to end anything beyond this --> dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <!-- you're safe to end anything before this --> <br> </p> 
     <!-- Replace the 'text' with info about people you do not want interacting  --> 
     <div align="center">
      
