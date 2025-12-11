@@ -16,7 +16,7 @@
 
   <img align="left" height="200" width="170" src="https://file.garden/aQf_20iXlTRXGsgd/88b987c7f31af5fe5ce73ccf013e311e.gif">
   
-  ${{\color{VioletRed}\Large{\textsf{> Dirk: Wake. \}}}}\$ ![baebd4dd](https://github.com/user-attachments/assets/a23cba6b-95f6-4431-b755-5dad7a92c3c8) <br> 
+  ${{\color{VioletRed}\Large{\textsf{> Dirk: Wake. \}}}}\$ ![baebd4dd](https://github.com/user-attachments/assets/a23cba6b-95f6-4431-b755-5dad7a92c3c8) ${{\color{#ffb3d2}\Large{\textsf{ LIKE \}}}}\$ ${{\color{#fc88b9}\Large{\textsf{OOH, \}}}}\$  ${{\color{#f2639f}\Large{\textsf{ I \}}}}\$  ${{\color{#e62e7a}\Large{\textsf{LOVE \}}}}\$ ${{\color{#d10d5e}\Large{\textsf{YOUR \}}}}\$ ${{\color{#bd004f}\Large{\textsf{STYLE \}}}}\$ <br> 
 
 ![e8cc1d68](https://github.com/user-attachments/assets/6d0d06d7-c4a7-4ea4-b623-4e3bb6d0e48d) <!-- you're safe to end anything beyond this --> ${{\color{#bc2464}\Large{\textsf{01 ABOUT ME\}}}}\$ Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text     <!-- you're safe to end anything before this --> <br>
     <!-- Replace the 'text' with info about yourself! -->
@@ -31,7 +31,11 @@
 
   <div align="left">
 
-  ${{\color{VioletRed}\Large{\textsf{> [S] Dirk: Synchronize.\ \}}}}\$ ![a2cd257c](https://github.com/user-attachments/assets/22c83168-4c10-4402-bff0-428f9e0813d8)  <br> 
+  ${{\color{VioletRed}\Large{\textsf{> [S] Dirk: Synchronize.\ \}}}}\$ ![a2cd257c](https://github.com/user-attachments/assets/22c83168-4c10-4402-bff0-428f9e0813d8) ${{\color{#ffb3d2}\Large{\textsf{ UH-HUH \}}}}\$ ${{\color{#fc88b9}\Large{\textsf{ SHOW \}}}}\$  ${{\color{#f2639f}\Large{\textsf{ ME \}}}}\$  ${{\color{#e62e7a}\Large{\textsf{WHAT \}}}}\$ ${{\color{#d10d5e}\Large{\textsf{YOU \}}}}\$ ${{\color{#bd004f}\Large{\textsf{GOT \}}}}\$ <br> 
+  </div>
+   <div align="right">
+
+![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ${{\color{#87003f}\Large{\textsf{'CAUSE I DONT WANNA WASTE MY TIME! \}}}}\$ ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b)
 
 </div>
 
