@@ -1,14 +1,13 @@
  <!-- template is made for laptop/desktop, but it's not completely broken on mobile. -->
-<sub align="left"> ![33d41b62](https://github.com/user-attachments/assets/8a754b3a-fa7a-404f-bd0d-23d145e6ae40) Layout derived from template by [Eveleen](https://github.com/COUNTRY-HUMANS) 
+<sub align="left"> ![33d41b62](https://github.com/user-attachments/assets/8a754b3a-fa7a-404f-bd0d-23d145e6ae40) ${{\color{#ffb3d2}\Large{\textsf{ Layout derived from template by\}}}}\$ [Eveleen](https://github.com/COUNTRY-HUMANS) 
 
 
 <p align="center">
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=3500&pause=5000&color=bc2464&center=true&multiline=true&width=800&height=79&lines=The+prince+is+awake.+Your+shit+is+wrecked." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=3500&pause=5000&color=bc2464&center=true&multiline=true&width=800&height=79&lines=The+prince+is+awake.+Your+shit+is+wrecked." alt="Typing SVG" /></a>
   
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=devimccallion&color=bc2464&style=plastic&label=Viewers.) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! -->
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/devimccallion?color=bc2464&style=plastic&abbreviated=false&label=Dreamers."/> <!-- this is a follower counter! make sure to edit "YOUR-GITHUB-USERNAME"! -->
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=devimccallion&color=bc2464&style=plastic&label=Viewers.) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! --> ![unnamed](https://github.com/user-attachments/assets/02d24c03-ddda-4182-bd54-2130d13bc7d6) <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/devimccallion?color=bc2464&style=plastic&abbreviated=false&label=Dreamers."/> <!-- this is a follower counter! make sure to edit "YOUR-GITHUB-USERNAME"! -->
 
 <img src=https://file.garden/aQf_20iXlTRXGsgd/68747470733a2f2f36342e6d656469612e74756d626c722...%20(2).png>
 
