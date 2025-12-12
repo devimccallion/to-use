@@ -17,7 +17,8 @@
   
   ${{\color{VioletRed}\Large{\textsf{> Dirk: Wake. \}}}}\$ ![baebd4dd](https://github.com/user-attachments/assets/a23cba6b-95f6-4431-b755-5dad7a92c3c8) ${{\color{#ffb3d2}\Large{\textsf{ LIKE \}}}}\$ ${{\color{#fc88b9}\Large{\textsf{OOH, \}}}}\$  ${{\color{#f2639f}\Large{\textsf{ I \}}}}\$  ${{\color{#e62e7a}\Large{\textsf{LOVE \}}}}\$ ${{\color{#d10d5e}\Large{\textsf{YOUR \}}}}\$ ${{\color{#bd004f}\Large{\textsf{STYLE \}}}}\$ <br> 
 
-![e8cc1d68](https://github.com/user-attachments/assets/6d0d06d7-c4a7-4ea4-b623-4e3bb6d0e48d) <!-- you're safe to end anything beyond this --> ${{\color{#bc2464}\Large{\textsf{01 ABOUT ME\}}}}\$ Hello, I'm Cojum.    
+![e8cc1d68](https://github.com/user-attachments/assets/6d0d06d7-c4a7-4ea4-b623-4e3bb6d0e48d) <!-- you're safe to end anything beyond this --> ${{\color{#bc2464}\Large{\textsf{01 ABOUT ME\}}}}\$ Hello, I'm Cojum. I'm a Derse-dreaming Prince of Time. I'm a pangender lesboy who uses all pronouns excluding they/them. I am very passionate about my interests, especially art, music, meteorology and other subsets of scientific studies, and my fandoms. More specifically, Homestuck is something I'm very annoying about, as are various Roblox fandoms.
+${{\color{#bc2464}\Large{\textsf{02 BEFORE YOU INTERACT\}}}}\$ Feel free to chat to me at any time, I am skittish socially around new people but I am friendly. Also, I don't talk like this. I just kin Dirk Strider, which should be a warning here in and of itself. That's code for 'I have BPD." Amongst other conditions, it affects how I interact with others, so please have patience with me. Because of this, please IWC as well. ${{\color{#bc2464}\Large{\textsf{03 EXT\}}}}\$ I selfship with Jake English and the planet Derse from Homestuck. 
 ${{\color{#f2a400}\Large{\textsf{TT: Really not trying to be a drag here.
 TT: Wondering what's up is all.\}}}}\$  <!-- you're safe to end anything before this --> <br>
     <!-- Replace the 'text' with info about yourself! -->
@@ -28,7 +29,7 @@ TT: Wondering what's up is all.\}}}}\$  <!-- you're safe to end anything before 
 
 <img src=https://file.garden/aQf_20iXlTRXGsgd/68747470733a2f2f36342e6d656469612e74756d626c722...%20(1).png>
 
-<img align="right" width="170" height="200" src="https://file.garden/aQf_20iXlTRXGsgd/6294b294d10cc9ccec7a42498de9132d.gif">
+<img align="right" width="190" height="220" src="https://file.garden/aQf_20iXlTRXGsgd/6294b294d10cc9ccec7a42498de9132d.gif">
 
   <div align="left">
 
@@ -36,15 +37,17 @@ TT: Wondering what's up is all.\}}}}\$  <!-- you're safe to end anything before 
   </div>
    <div align="left">
 
-![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ${{\color{#87003f}\Large{\textsf{'CAUSE I DONT WANNA WASTE MY TIME! \}}}}\$ ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b) ![e8cc1d68](https://github.com/user-attachments/assets/3e811c96-dbf3-4266-913d-e43822dfdf0b)
+${{\color{#87003f}\Large{\textsf{'CAUSE I DONT WANNA WASTE MY TIME! \}}}}\$ 
 
 </div>
 
 ${{\color{#f2a400}\Large{\textsf{TT: Want to meet up soon?
 TT: I found a really promising tomb we could raid.\}}}}\$
 
-<p> <!-- you're safe to end anything beyond this --> dont feel forced to fill in the entire area! text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text <!-- you're safe to end anything before this --> <br> </p> 
+  <div align="justify">
+<p> <!-- you're safe to end anything beyond this --> My DNI does not apply for who follows me or who I follow on here. As far as that goes, I don't care. Do as you wish, I won't stop you. But, please do not talk to me in game if any of the following apply to you. Do not interact if you are a darkshipper, an ex-friend or associate of one, "willogenic" or "endogenic" system, or under fourteen. Also, do not interact with me if you are using a Bro Strider or Jade Harley skin. Before you ask why, I am aware it's an odd request and I will not elaborate on it. Thank you for reading, good day. <!-- you're safe to end anything before this --> <br> </p> 
     <!-- Replace the 'text' with info about people you do not want interacting  --> 
+  </div>
     <div align="center">
      
   ${{\color{VioletRed}\large{\textsf{ 0:54- ━━━━●━━━━━━ -3:24 \ \}}}}\$  <br>
