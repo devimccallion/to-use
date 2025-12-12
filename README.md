@@ -23,10 +23,8 @@ ${{\color{#f2a400}\Large{\textsf{TT: Really not trying to be a drag here.
 TT: Wondering what's up is all.\}}}}\$ ![unnamed](https://github.com/user-attachments/assets/b4a504ad-3be8-444e-b701-b1efea38823b)
  
  <p align="center">
-
   
-  <br> ${{\color{VioletRed}\large{\textsf{ ⇄⠀⠀⠀◁◁⠀ ▐  ▌ ⠀▷▷  ⠀ ⠀↻ \ \}}}}\$ 
-</p>
+ ${{\color{VioletRed}\large{\textsf{ ⇄⠀⠀⠀◁◁⠀ ▐  ▌ ⠀▷▷  ⠀ ⠀↻ \ \}}}}\$</p>
 
 <img src=https://file.garden/aQf_20iXlTRXGsgd/68747470733a2f2f36342e6d656469612e74756d626c722...%20(1).png>
 
