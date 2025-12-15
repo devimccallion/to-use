@@ -45,7 +45,7 @@ TT: I found a really promising tomb we could raid.\}}}}\$
 
 
   <div align="justify">
-<p> <!-- you're safe to end anything beyond this --> My DNI does not apply for who follows me or who I follow on here. I am a spam follower, and as far as that goes, I don't care. Do as you wish, I won't stop you. But, please do not talk to me in game if any of the following apply to you. Do not interact if you are a darkshipper, an ex-friend or associate of one, "willogenic" or "endogenic" system, or under fourteen. Also, do not interact with me if you are using a Bro Strider or Jade Harley skin. Before you ask why, I am aware it's an odd request and I will not elaborate on it. Thank you for reading, good day. <!-- you're safe to end anything before this --> <br> </p> 
+<p> <!-- you're safe to end anything beyond this --> My DNI does not apply for who follows me or who I follow on here. I am a spam follower, and as far as that goes, I don't care. Do as you wish, I won't stop you. But, please do not talk to me in game if any of the following apply to you. Do not interact if you are a darkshipper, an ex-friend or associate of one, "willogenic" or "endogenic" system, under fourteen, or are a Forsaken fan. Also, do not interact with me if you are using a Bro Strider or Jade Harley skin. Before you ask why, I am aware it's an odd request and I will not elaborate on it. Thank you for reading, good day. <!-- you're safe to end anything before this --> <br> </p> 
     <!-- Replace the 'text' with info about people you do not want interacting  --> 
   </div>
     <div align="center">
