@@ -1,7 +1,7 @@
  <!-- template is made for laptop/desktop, but it's not completely broken on mobile. -->
 <sub align="left"> ![33d41b62](https://github.com/user-attachments/assets/8a754b3a-fa7a-404f-bd0d-23d145e6ae40) ${{\color{#ffb3d2}\Large{\textsf{ Layout derived from template by\}}}}\$ [Eveleen](https://github.com/COUNTRY-HUMANS) 
 
-[Sign Ata ](https://007n7.atabook.org/) or [sign my Tree.](https://colormytree.me/2025/01JE2P1F8W6DXM4JV6EKZZQFWR)
+[Sign Ata ](https://007n7.atabook.org/) or [peep my Rentry.](https://rentry.co/mccallion)
 <p align="center">
 
 <div align="center">
